@@ -119,4 +119,4 @@ Submit.addEventListener("click", (e) => {
   getWeather(city.value);
 });
 
-getWeather("Delhi");
+getWeather("Nagpur");
